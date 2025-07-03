@@ -1,0 +1,51 @@
+Race,Driver,Team,Position,Points
+Australian GP,Oscar Piastri,Ferrari,1,25
+Australian GP,Lewis Hamilton,Ferrari,2,23
+Australian GP,Sergio Pérez,Ferrari,3,21
+Australian GP,Max Verstappen,Aston Martin,4,19
+Australian GP,Carlos Sainz,McLaren,5,17
+Australian GP,Charles Leclerc,Ferrari,6,15
+Australian GP,Pierre Gasly,Alpine,7,13
+Australian GP,Fernando Alonso,Aston Martin,8,11
+Australian GP,Lando Norris,Mercedes,9,9
+Australian GP,George Russell,McLaren,10,7
+Bahrain GP,Pierre Gasly,Aston Martin,1,25
+Bahrain GP,Charles Leclerc,McLaren,2,23
+Bahrain GP,Oscar Piastri,Red Bull,3,21
+Bahrain GP,George Russell,Red Bull,4,19
+Bahrain GP,Max Verstappen,Ferrari,5,17
+Bahrain GP,Fernando Alonso,Ferrari,6,15
+Bahrain GP,Lando Norris,Mercedes,7,13
+Bahrain GP,Carlos Sainz,McLaren,8,11
+Bahrain GP,Lewis Hamilton,McLaren,9,9
+Bahrain GP,Sergio Pérez,Alpine,10,7
+Monaco GP,Lewis Hamilton,Red Bull,1,25
+Monaco GP,Oscar Piastri,Mercedes,2,23
+Monaco GP,Carlos Sainz,McLaren,3,21
+Monaco GP,Sergio Pérez,Red Bull,4,19
+Monaco GP,Fernando Alonso,McLaren,5,17
+Monaco GP,Pierre Gasly,Alpine,6,15
+Monaco GP,Max Verstappen,Mercedes,7,13
+Monaco GP,Lando Norris,Mercedes,8,11
+Monaco GP,George Russell,Red Bull,9,9
+Monaco GP,Charles Leclerc,Mercedes,10,7
+British GP,Oscar Piastri,Alpine,1,25
+British GP,Pierre Gasly,Red Bull,2,23
+British GP,Charles Leclerc,McLaren,3,21
+British GP,Max Verstappen,Mercedes,4,19
+British GP,Sergio Pérez,McLaren,5,17
+British GP,George Russell,Mercedes,6,15
+British GP,Carlos Sainz,Alpine,7,13
+British GP,Lando Norris,Alpine,8,11
+British GP,Lewis Hamilton,Alpine,9,9
+British GP,Fernando Alonso,Mercedes,10,7
+Italian GP,Max Verstappen,Alpine,1,25
+Italian GP,Charles Leclerc,McLaren,2,23
+Italian GP,Carlos Sainz,Alpine,3,21
+Italian GP,Pierre Gasly,Alpine,4,19
+Italian GP,Oscar Piastri,McLaren,5,17
+Italian GP,Lewis Hamilton,Red Bull,6,15
+Italian GP,George Russell,Alpine,7,13
+Italian GP,Fernando Alonso,Aston Martin,8,11
+Italian GP,Sergio Pérez,Aston Martin,9,9
+Italian GP,Lando Norris,Mercedes,10,7
